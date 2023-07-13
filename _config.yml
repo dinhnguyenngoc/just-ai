@@ -5,4 +5,5 @@ theme: just-the-docs
 url: https://dinhnguyenngoc.github.io/news-feed
 
 aux_links:
-  Template Repository: https://github.com/dinhnguyenngoc/news-feed
+  #Template Repository: https://github.com/dinhnguyenngoc/news-feed
+  My Link: http://google.com
