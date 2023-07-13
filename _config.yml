@@ -1,8 +1,8 @@
-title: Just AI Corner
-description: A personal blog for AI using the Just the Docs theme!
+title: Just News Corner
+description: A personal blog for AI, and Technology!
 theme: just-the-docs
 
 url: https://dinhnguyenngoc.github.io/news-feed
 
 aux_links:
-  Template Repository: https://github.com/dinhnguyenngoc/just-ai
+  Template Repository: https://github.com/dinhnguyenngoc/news-feed
